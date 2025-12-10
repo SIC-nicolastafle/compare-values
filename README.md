@@ -58,7 +58,6 @@ Produto C,15.75,15.75,,20.00,22.00,SIM
 
 - **Só compara registos que existem em AMBAS as tabelas**
   - Se um produto existe só na original ou só na nova, não aparece no resultado
-  - (Use o csv_comparator.py se quiser ver essas diferenças também)
 
 - **A coluna chave deve ser única**
   - Se tiver duplicados, só o primeiro será comparado
